@@ -150,7 +150,8 @@ Facial_Expression_Recognition_iiitk/
 ├── main.py
 ├── test.py
 ├── human_corr.ipynb
-├── dataset/
-├── models/
-├── outputs/
-└── requirements.txt
+├── final.xlsx
+├── Memory/
+├── Psychology/
+├── requirements.txt
+└── .gitignore
